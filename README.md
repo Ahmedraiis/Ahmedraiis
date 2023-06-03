@@ -3,8 +3,8 @@
 I'm a Cybersecurity Enthusiast from France, currently learning and growing in the field of cybersecurity. I am passionate about network security and ethical hacking.
 
 ## Skills and Expertise 🛠️
-- Programming Languages: Python (intermediate), Java (beginner)
-- Tools: Nmap, Wireshark
+- Programming Languages: Python, Java, C, bash, html, css
+- Tools: Nmap
 - Concepts: Network Security, Ethical Hacking
 
 ## Projects 📚
