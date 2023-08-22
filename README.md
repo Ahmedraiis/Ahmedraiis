@@ -13,4 +13,4 @@ I'm a Cybersecurity Enthusiast from France, currently learning and growing in th
 
 
 ## Contact Me 📫
-You can reach me on [LinkedIn](https://linkedin.com/in/your-linkedin-handle) or send me an email at ahmedrais@gmail.com.
+You can reach me on email at ahmedrais.pro@gmail.com.
